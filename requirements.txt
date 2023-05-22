@@ -1,4 +1,0 @@
-pandas
-mysql
-matplotlib
-seaborn
