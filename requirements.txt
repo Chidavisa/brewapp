@@ -1,4 +1,4 @@
-import pandas
-import mysql
-import matplotlib
-import seaborn
+pandas
+mysql
+matplotlib
+seaborn
